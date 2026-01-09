@@ -12,8 +12,8 @@
 }
 
 #lo-img{
-    height: 12%;
-    width: 12%;
+    height: 15%;
+    width: 15%;
 }
 
 .header {
@@ -112,8 +112,9 @@ a{
 
 ul li {
     font-weight:lighter;
-    font-size: small;
+    font-size: 14px;
     padding-top: 3%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .copy {
