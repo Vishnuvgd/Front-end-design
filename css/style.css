@@ -299,19 +299,6 @@ ul li,p {
     line-height: 1.6;
 }
 
-/* Slick Dots */
-.slick-dots {
-    bottom: -40px;
-}
-
-.slick-dots li button:before {
-    font-size: 10px;
-    color: #000;
-}
-
-.slick-dots li.slick-active button:before {
-    color: #000;
-}
 
 
 /* ========= MOB ========= */
@@ -327,8 +314,7 @@ ul li,p {
     }
   }
   .hero {
-    /* height: 500px;   increase this */
-    /* background-image: url("../images/Layer 5.jpg"); */
+    /* height: 500px; */
     background-size: cover;
     background-position: center;
 }
